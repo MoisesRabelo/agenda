@@ -1,5 +1,10 @@
 # Agenda Online
+
+Coisas Usadas:
+
 Java versão 8
+
+Framework Spring Boot
 
 Banco de Dados Usado é o PostGresql
 
